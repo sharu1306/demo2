@@ -1,2 +1,2 @@
 # demo2
-learn
+hi my first git practice
